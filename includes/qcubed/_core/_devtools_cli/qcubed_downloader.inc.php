@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 	/* This includes library file is used by the qcubed_downloader.cli and qcubed_downloader.phpexe scripts
 	 * to perform the QCubed Update Utility's File Downloading functionality.

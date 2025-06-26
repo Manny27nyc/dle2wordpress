@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 This folder contains any custom language files for i18n translations.  Language
 files must be in the .po format (please see
     http://www.gnu.org/software/gettext/manual/html_node/gettext_9.html

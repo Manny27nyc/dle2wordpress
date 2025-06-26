@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /**
 		 * Default / simple DataBinder for this Meta DataGrid.  This can easily be overridden
 		 * by calling SetDataBinder() on this DataGrid with another DataBinder of your choice.

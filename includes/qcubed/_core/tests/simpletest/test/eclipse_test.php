@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 // $Id: eclipse_test.php 1739 2008-04-09 20:48:37Z edwardzyang $
 

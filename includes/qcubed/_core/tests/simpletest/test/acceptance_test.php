@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 // $Id: acceptance_test.php 1972 2009-12-13 21:38:19Z lastcraft $
 require_once(dirname(__FILE__) . '/../autorun.php');

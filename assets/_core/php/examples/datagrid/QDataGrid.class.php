@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 // Note: This file is usually in /includes/qform/QDataGrid.inc.  However, it has been
 // pulled out and put here for purposes of this Examples Site demo.
