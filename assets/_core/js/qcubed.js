@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // BEWARE: this cleares the $ variable!
 var $j = jQuery.noConflict();
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 	function Qcodo__DateTimePicker_Change(strControlId, objListbox) {
 		var objMonth = document.getElementById(strControlId + "_lstMonth");
 		var objDay = document.getElementById(strControlId + "_lstDay");

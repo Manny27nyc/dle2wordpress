@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function treenavToggleImage(strControlId) {
 	var blnShow = treenavToggleDisplay(strControlId + "_sub", null, "block");
 	
